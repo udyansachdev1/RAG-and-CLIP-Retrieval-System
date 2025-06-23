@@ -1,8 +1,6 @@
 import os
 
-os.environ["OPENAI_API_KEY"] = (
-    "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"
-)
+os.environ["OPENAI_API_KEY"] = ()
 
 import streamlit as st
 import pandas as pd
